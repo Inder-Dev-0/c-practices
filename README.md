@@ -1,2 +1,2 @@
 # C-practices
-this for practice for js
+this for practice for c
